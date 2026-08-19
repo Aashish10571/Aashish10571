@@ -1,22 +1,16 @@
-<h1 align="center">
-  <span style="font-family: 'Arial Black', 'Fira Code', monospace; font-size: 52px; font-weight: 900;">
-    <font color="#00F5FF">HEY</font> 👋
-  </span>
+<h1 align="left">
+  <font color="#00F5FF">HEY</font> 👋
 </h1>
 
-<h2 align="center">
+<h2 align="left">
   <font color="#A855F7">I'M AASHISH</font>
 </h2>
 
-<p align="center">
+<p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=FULL+STACK+JAVA+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+REACT;BACKEND+%7C+APIs+%7C+DATABASES;BUILDING+IDEAS+INTO+REAL+PRODUCTS"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=650&lines=FULL+STACK+JAVA+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+REACT;BACKEND+%7C+APIs+%7C+DATABASES;BUILDING+IDEAS+INTO+REAL+PRODUCTS"
     alt="Typing SVG"
   />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8B5CF6,100:EC4899&height=3&section=header" width="85%" />
 </p>
 
 <h2>
@@ -39,11 +33,11 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
   <font color="#A855F7">🛠️ Tech Stack</font>
 </h2>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,tailwind,postgres,mongodb,redis,rabbitmq,kafka&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode&theme=dark" />
 </p>
 
@@ -51,23 +45,23 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
   <font color="#00F5FF">🔥 What I Build</font>
 </h2>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td width="33%">
       <h3>☕ Backend</h3>
       Spring Boot<br/>
       REST APIs<br/>
       JWT Authentication<br/>
       Database Architecture
     </td>
-    <td align="center" width="33%">
+    <td width="33%">
       <h3>⚛️ Frontend</h3>
       Angular<br/>
       React<br/>
       TypeScript<br/>
       Responsive UI
     </td>
-    <td align="center" width="33%">
+    <td width="33%">
       <h3>⚙️ Infrastructure</h3>
       Redis<br/>
       RabbitMQ<br/>
@@ -77,18 +71,6 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
   </tr>
 </table>
 
-<h2>
-  <font color="#EC4899">🚀 Currently Building</font>
-</h2>
-
-<p align="center">
-  <strong>Turning ideas → code → products.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00F5FF&height=3&section=footer" width="85%" />
-</p>
-
-<h3 align="center">
-  <font color="#00F5FF">⚡ Code. Build. Learn. Repeat. ⚡</font>
+<h3>
+  <font color="#EC4899">⚡ Code. Build. Learn. Repeat.</font>
 </h3>
