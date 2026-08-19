@@ -1,10 +1,14 @@
-<h1 align="left">
-  <font color="#00F5FF">HEY 👋</font>
-</h1>
+<p align="left">
+  <font color="#00F5FF" size="7">
+    <strong>HEY 👋</strong>
+  </font>
+</p>
 
-<h2 align="left">
-  <font color="#A855F7">I'M AASHISH</font>
-</h2>
+<p align="left">
+  <font color="#A855F7" size="6">
+    <strong>I'M AASHISH</strong>
+  </font>
+</p>
 
 <p align="left">
   <img
@@ -15,8 +19,10 @@
 
 <br>
 
-<p>
-  <font color="#00F5FF" size="5"><strong>⚡ ABOUT ME</strong></font>
+<p align="left">
+  <font color="#00F5FF" size="6">
+    <strong>⚡ ABOUT ME</strong>
+  </font>
 </p>
 
 <p>
@@ -33,8 +39,10 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 
 <br>
 
-<p>
-  <font color="#A855F7" size="5"><strong>🛠️ TECH STACK</strong></font>
+<p align="left">
+  <font color="#A855F7" size="6">
+    <strong>🛠️ TECH STACK</strong>
+  </font>
 </p>
 
 <p align="left">
@@ -47,8 +55,10 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 
 <br>
 
-<p>
-  <font color="#EC4899" size="5"><strong>🔥 WHAT I BUILD</strong></font>
+<p align="left">
+  <font color="#EC4899" size="6">
+    <strong>🔥 WHAT I BUILD</strong>
+  </font>
 </p>
 
 <p>
@@ -67,3 +77,9 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 </p>
 
 <br>
+
+<p align="left">
+  <font color="#00F5FF" size="5">
+    <strong>⚡ CODE. BUILD. LEARN. REPEAT.</strong>
+  </font>
+</p>
