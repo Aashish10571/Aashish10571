@@ -1,18 +1,18 @@
 <p align="left">
-  <font color="#00F5FF" size="7">
+  <font color="#00F5FF" size="6">
     <strong>HEY 👋</strong>
   </font>
 </p>
 
 <p align="left">
-  <font color="#A855F7" size="6">
+  <font color="#A855F7" size="7">
     <strong>I'M AASHISH</strong>
   </font>
 </p>
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=650&lines=FULL+STACK+JAVA+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+REACT;BACKEND+%7C+APIs+%7C+DATABASES;BUILDING+IDEAS+INTO+REAL+PRODUCTS"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=FULL+STACK+JAVA+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+REACT;BACKEND+%7C+APIs+%7C+DATABASES;BUILDING+IDEAS+INTO+REAL+PRODUCTS"
     alt="Typing SVG"
   />
 </p>
@@ -77,9 +77,3 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 </p>
 
 <br>
-
-<p align="left">
-  <font color="#00F5FF" size="5">
-    <strong>⚡ CODE. BUILD. LEARN. REPEAT.</strong>
-  </font>
-</p>
