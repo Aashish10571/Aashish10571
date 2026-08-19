@@ -1,5 +1,5 @@
 <h1 align="left">
-  <font color="#00F5FF">HEY</font> 👋
+  <font color="#00F5FF">HEY 👋</font>
 </h1>
 
 <h2 align="left">
@@ -13,9 +13,11 @@
   />
 </p>
 
-<h2>
-  <font color="#00F5FF">⚡ About Me</font>
-</h2>
+<br>
+
+<p>
+  <font color="#00F5FF" size="5"><strong>⚡ ABOUT ME</strong></font>
+</p>
 
 <p>
 I'm a <strong>Full Stack Java Developer</strong> who enjoys building complete products from the ground up — from designing robust backend systems and clean REST APIs to creating responsive frontend applications and connecting everything together.
@@ -29,9 +31,11 @@ My primary focus is <strong>Java & Spring Boot</strong>, with <strong>Angular an
 I care about writing <strong>clean, maintainable, and scalable code</strong> rather than simply making something work. I enjoy taking an idea from a blank repository and turning it into a real, working product.
 </p>
 
-<h2>
-  <font color="#A855F7">🛠️ Tech Stack</font>
-</h2>
+<br>
+
+<p>
+  <font color="#A855F7" size="5"><strong>🛠️ TECH STACK</strong></font>
+</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,tailwind,postgres,mongodb,redis,rabbitmq,kafka&theme=dark" />
@@ -41,36 +45,25 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode&theme=dark" />
 </p>
 
-<h2>
-  <font color="#00F5FF">🔥 What I Build</font>
-</h2>
+<br>
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>☕ Backend</h3>
-      Spring Boot<br/>
-      REST APIs<br/>
-      JWT Authentication<br/>
-      Database Architecture
-    </td>
-    <td width="33%">
-      <h3>⚛️ Frontend</h3>
-      Angular<br/>
-      React<br/>
-      TypeScript<br/>
-      Responsive UI
-    </td>
-    <td width="33%">
-      <h3>⚙️ Infrastructure</h3>
-      Redis<br/>
-      RabbitMQ<br/>
-      Kafka<br/>
-      Docker
-    </td>
-  </tr>
-</table>
+<p>
+  <font color="#EC4899" size="5"><strong>🔥 WHAT I BUILD</strong></font>
+</p>
 
-<h3>
-  <font color="#EC4899">⚡ Code. Build. Learn. Repeat.</font>
-</h3>
+<p>
+  <strong>☕ Backend</strong><br>
+  Spring Boot · REST APIs · JWT Authentication · Database Architecture
+</p>
+
+<p>
+  <strong>⚛️ Frontend</strong><br>
+  Angular · React · TypeScript · Responsive UI
+</p>
+
+<p>
+  <strong>⚙️ Infrastructure</strong><br>
+  Redis · RabbitMQ · Kafka · Docker
+</p>
+
+<br>
