@@ -13,8 +13,6 @@
   />
 </p>
 
-<br>
-
 <p align="left">
   <font size="5" color="#00F5FF"><strong>⚡ ABOUT ME</strong></font>
 </p>
