@@ -1,18 +1,18 @@
-<p align="left">
-  <font color="#00F5FF" size="6">
-    <strong>HEY 👋</strong>
-  </font>
+<p align="left" style="margin-bottom: 0;">
+  <span style="font-family: Arial, sans-serif; font-size: 36px; font-weight: 900; color: #00F5FF;">
+    HEY 👋
+  </span>
 </p>
 
-<p align="left">
-  <font color="#A855F7" size="7">
-    <strong>I'M AASHISH</strong>
-  </font>
+<p align="left" style="margin-top: 0; margin-bottom: 5px;">
+  <span style="font-family: Arial, sans-serif; font-size: 44px; font-weight: 900; color: #A855F7;">
+    I'M AASHISH
+  </span>
 </p>
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=FULL+STACK+JAVA+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+REACT;BACKEND+%7C+APIs+%7C+DATABASES;BUILDING+IDEAS+INTO+REAL+PRODUCTS"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=FULL+STACK+JAVA+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+REACT;BACKEND+%7C+APIs+%7C+DATABASES;BUILDING+IDEAS+INTO+REAL+PRODUCTS"
     alt="Typing SVG"
   />
 </p>
@@ -20,9 +20,9 @@
 <br>
 
 <p align="left">
-  <font color="#00F5FF" size="6">
-    <strong>⚡ ABOUT ME</strong>
-  </font>
+  <span style="font-family: Arial, sans-serif; font-size: 30px; font-weight: 900; color: #00F5FF;">
+    ⚡ ABOUT ME
+  </span>
 </p>
 
 <p>
@@ -40,9 +40,9 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 <br>
 
 <p align="left">
-  <font color="#A855F7" size="6">
-    <strong>🛠️ TECH STACK</strong>
-  </font>
+  <span style="font-family: Arial, sans-serif; font-size: 30px; font-weight: 900; color: #A855F7;">
+    🛠️ TECH STACK
+  </span>
 </p>
 
 <p align="left">
@@ -56,9 +56,9 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 <br>
 
 <p align="left">
-  <font color="#EC4899" size="6">
-    <strong>🔥 WHAT I BUILD</strong>
-  </font>
+  <span style="font-family: Arial, sans-serif; font-size: 30px; font-weight: 900; color: #EC4899;">
+    🔥 WHAT I BUILD
+  </span>
 </p>
 
 <p>
