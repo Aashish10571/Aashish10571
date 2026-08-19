@@ -13,10 +13,6 @@
   />
 </p>
 
-<p align="left">
-  <font size="5" color="#00F5FF"><strong>⚡ ABOUT ME</strong></font>
-</p>
-
 <p>
 I'm a <strong>Full Stack Java Developer</strong> who enjoys building complete products from the ground up — from designing robust backend systems and clean REST APIs to creating responsive frontend applications and connecting everything together.
 </p>
