@@ -1,9 +1,9 @@
 <p align="left">
-  <big><big><big><strong><font color="#00F5FF">HEY 👋</font></strong></big></big></big>
+  <big><big><big><big><big><strong><font color="#00F5FF">HEY 👋</font></strong></big></big></big></big></big>
 </p>
 
 <p align="left">
-  <big><big><big><big><strong><font color="#A855F7">I'M AASHISH</font></strong></big></big></big></big>
+  <big><big><big><big><big><big><strong><font color="#A855F7">I'M AASHISH</font></strong></big></big></big></big></big></big>
 </p>
 
 <p align="left">
