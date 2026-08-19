@@ -46,11 +46,11 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,tailwind,postgres,mongodb,redis,rabbitmq,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,python,tailwind,postgres,mongodb,redis,rabbitmq,kafka&theme=dark" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode&theme=dark" />
 </p>
 
 <br>
@@ -73,7 +73,7 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
 
 <p>
   <strong>⚙️ Infrastructure</strong><br>
-  Redis · RabbitMQ · Kafka · Docker
+  Redis · RabbitMQ · Kafka
 </p>
 
 <br>
