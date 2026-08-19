@@ -41,8 +41,6 @@ I care about writing <strong>clean, maintainable, and scalable code</strong> rat
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,ts,python,tailwind,postgres,mongodb,redis,rabbitmq,kafka&theme=dark&perline=13" width="720" />
 </p>
 
-<br>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode&theme=dark&perline=6" width="360" />
 </p>
